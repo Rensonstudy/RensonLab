@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "10a1c7c8b239de5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb8c7d5316ae109c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "640fcf9a31312d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Dashboard/Inicio.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inicio.md"
+            }
+          },
+          {
+            "id": "72255b31a4f219dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Dashboard/Inicio.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inicio.md"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4ae82b619bd3b521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b41e19e28e4e7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Dashboard/Roadmap.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9c03cd345dac809",
+    "type": "split",
+    "children": [
+      {
+        "id": "79a5b7c7cf4c5836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b39362d881354872",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "f4e755158e959c68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "31aea215f1c35fcc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a607f1b0e2f01439",
+    "type": "split",
+    "children": [
+      {
+        "id": "94223e46d8faa012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de39a790434533c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Dashboard/Roadmap.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Roadmap.md"
+            }
+          },
+          {
+            "id": "d1b0e67a5d4e7648",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Dashboard/Roadmap.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Roadmap.md"
+            }
+          },
+          {
+            "id": "2a7d022aa0f2a058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d74ed838bfeff9df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "659c09cb6de6daf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Dashboard/Roadmap.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Roadmap.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "4b41e19e28e4e7d9",
+  "lastOpenFiles": [
+    "00_Dashboard/Inicio.md.md",
+    "00_Dashboard/Roadmap.md.md",
+    "00_Dashboard/🎯 Metas del Proyecto.md",
+    "12_Algorithms",
+    "00_Dashboard/# Roadmap- [ ] CS50- [ ] Python- [ ] Git- [ ] Linux- [ ] Álgebra- [ ] Matemáticas Discretas- [ ] Inglés B2- [ ] 20 proyectos- [ ] Portafolio GitHub.md",
+    "Bienvenido.md",
+    "11_Vocabulary",
+    "10_Resources",
+    "09_AI",
+    "08_Projects",
+    "07_English",
+    "06_Git",
+    "05_Linux",
+    "04_Math",
+    "03_Python"
+  ]
+}
